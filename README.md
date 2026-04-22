@@ -1,2 +1,7 @@
-# demo-odontologia-roma
-Demo web para Odontologia ROMA — diseñada por eterlab.
+# Odontologia ROMA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
